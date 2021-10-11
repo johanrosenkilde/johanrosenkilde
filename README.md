@@ -1,16 +1,16 @@
 ### Hi I'm Johan Rosenkilde
 
-I'm a Research Engineer in the [Office of the CTO (OCTO)](https://octo.github.com) in the Code Intelligence team.
+I'm a Research Engineer at [GitHub Next](https://next.github.com) on the Copilot team.
 
 I started March 2021. Before that I was a academic researcher in algorithms for algebra for about 10 years, most of this time spent at the Technical University in Denmark ([Google Scholar profile](https://scholar.google.dk/citations?hl=en&user=d8AVunIAAAAJ)).
 
 - 🔭 I’m currently working on ...
 
-shhh, it's a secret...
+[GitHub Copilot](https://copilot.github.com/)
 
 - 🌱 I’m currently learning ...
 
-Everything GitHub - there's a lot to take in!
+Machine Learning
 
 - I live in 🇩🇰 ...
 
