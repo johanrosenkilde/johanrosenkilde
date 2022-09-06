@@ -1,16 +1,12 @@
 ### Hi I'm Johan Rosenkilde
 
-I'm a Research Engineer at [GitHub Next](https://next.github.com) on the Copilot team.
+I'm a Research Engineer at [GitHub Next](https://next.github.com), working on Copilot and Copilot-related projects.
 
-I started March 2021. Before that I was a academic researcher in algorithms for algebra for about 10 years, most of this time spent at the Technical University in Denmark ([Google Scholar profile](https://scholar.google.dk/citations?hl=en&user=d8AVunIAAAAJ)).
+I started at GitHub March 2021. Before that I was a academic researcher in algorithms for algebra for about 10 years, most of this time spent at the Technical University in Denmark ([Google Scholar profile](https://scholar.google.dk/citations?hl=en&user=d8AVunIAAAAJ)).
 
 - 🔭 I’m currently working on ...
 
-[GitHub Copilot](https://copilot.github.com/)
-
-- 🌱 I’m currently learning ...
-
-Machine Learning
+See my [profile on GitHub Next](https://githubnext.com/team/johanrosenkilde/)
 
 - I live in 🇩🇰 ...
 
