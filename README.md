@@ -1,15 +1,5 @@
-I'm currently in a startup that's still in stealth.
+I'm a founding AI engineer at [XBOW](https://xbow.com). I'm one of the main architects of our "solver", the piece of software that sits around our LLM interactions, providing steering and carrying out the model's instructions.   
 
-Until April 2024, I was a Research Engineer at [GitHub Next](https://next.github.com). 
+Until April 2024, I was a Research Engineer at [GitHub Next](https://next.github.com). I was the third engineer on what became GitHub Copilot. I also co-built the original Copilot CLI, and was involved in several other exciting projects (e.g. [SpecLang](https://githubnext.com/projects/speclang/ and [Copilot NES](https://githubnext.com/projects/copilot-next-edit-suggestions/)).
 
-I started at GitHub March 2021. Before that I was a academic researcher in algorithms for algebra for about 10 years, most of this time spent at the Technical University in Denmark ([Google Scholar profile](https://scholar.google.dk/citations?hl=en&user=d8AVunIAAAAJ)).
-
-- I live in 🇩🇰 ...
-
-the greater Copenhagen area of Denmark to be slightly more precise. It's a great place and I can take a short walk down to a beautiful nature reserve.
-
-I mix working remotely and going to the very nice Microsoft Lyngby office.
-
-- ⚡ Fun fact:
-
-I love paper crafting ✂️, and used to run a [small company producing artsy "julehjerter"](https://johansjulehjerter.dk) (woven Christmas hearts) which is a type of decoration everyone in Denmark hangs on the Christmas tree.
+Before joining GitHub in 2021, I was an academic researcher in algorithms for algebra for about 10 years, most of this time spent at the Technical University in Denmark ([Google Scholar profile](https://scholar.google.dk/citations?hl=en&user=d8AVunIAAAAJ)).
